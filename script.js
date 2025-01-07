@@ -15,7 +15,7 @@ function excelToXml(file) {
 
         let xmlString = '<?xml version="1.0" encoding="UTF-8"?>\n';
         xmlString += '<TaxInvoiceBulk xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">\n';
-        xmlString += '  <TIN>1091031210912281</TIN>\n';
+        xmlString += '  <TIN>0210956496013000</TIN>\n';
         xmlString += '  <ListOfTaxInvoice>\n';
 
         // Loop untuk sheet1 (TaxInvoice)
